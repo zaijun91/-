@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Build artifacts
+build/
+dist/
+Output/
+
+# PyInstaller spec files (optional, can be kept if customized heavily)
+# *.spec
+
+# IDE/Editor specific
+.vscode/
+*.swp
+*~
+
+# Other generated files
+compile_installer.bat
+*.log
