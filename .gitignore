@@ -10,7 +10,7 @@ venv/
 # Build artifacts
 build/
 dist/
-Output/
+# Output/  <- Temporarily allow Output dir for installer
 
 # PyInstaller spec files (optional, can be kept if customized heavily)
 # *.spec
