@@ -1,0 +1,16 @@
+# GUI Framework
+PySide6
+
+# Windows API Access (Gamma, Brightness, Notifications etc.)
+pywin32
+WMI # For brightness control
+
+# Cross-platform Notifications (alternative/complement to pywin32)
+plyer
+
+# Global Hotkey Listener
+pynput
+appdirs # For finding user data directories
+# Add other dependencies later as needed, e.g.:
+# screen-brightness-control
+# matplotlib
